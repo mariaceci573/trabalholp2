@@ -1,0 +1,59 @@
+.cafeimg
+{
+    width: 600px;
+}
+.cappuccinoimg
+{
+    width: 600px;
+}
+.macchiatoimg
+{
+    width: 600px;
+}
+.mochaimg
+{
+    width: 600px;
+}
+.tipodebbd
+{
+   font-size: large;
+}
+.detalhe
+{
+    
+   font-size: larger;
+}
+.tipodebbd
+{
+   font-size: xx-large;
+}
+.detalhe
+{
+    
+   font-size: x-large;
+}
+.cf
+{
+    
+   font-size: x-large;
+}
+.mt
+{
+    
+   font-size: x-large;
+}
+.pp
+{
+    
+   font-size: x-large;
+}
+.ex
+{
+    
+   font-size: x-large;
+}
+
+body{
+background: #E1D2CA;
+background: linear-gradient(283deg,rgba(225, 210, 202, 1) 0%, rgba(224, 196, 184, 1) 10%, rgba(224, 187, 171, 1) 100%);
+}
