@@ -75,17 +75,14 @@ ul {
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    transition: transform 0.3s ease;
+   
 }
-
-.bebida:hover {
-    transform: translateY(-50%, -50%);
-}
-
 .cafeimg,
 .cappuccinoimg,
 .macchiatoimg,
-.mochaimg {
+.mochaimg
+
+{
     max-width: 50%;
     height: auto;
     border-radius: 8px;
@@ -96,40 +93,23 @@ footer {
     text-align: center;
     margin-top: 50px;
     font-size: 0.9em;
-    color: #777;
+    color: #1706b3;
     border-top: 1px solid #ccc;
     padding-top: 15px;
 }
 
-footer a {
-    color: #8b4513;
-    text-decoration: none;
-}
+.cecimg
+{
 
-footer a:hover {
-    text-decoration: underline;
-}
-
-@media (max-width: 768px) {
-    .conteudo-principal {
-        padding: 0 10px;
-    }
-
-    .bebida {
-        padding: 15px;
-    }
-
-    h1.tipodebbd {
-        font-size: 2em;
-    }
-
-    h2.detalhe {
-        font-size: 1.5em;
-    }
-}
-.cecimg{
-     max-width: 50%;
-    height: auto;
+    width: 200px;
+    height: 400px;
     border-radius: 8px;
     margin-top: 10px;
+    align-items: center;
+
+}
+.bebidas
+{
+    display: flex;
+    align-items: center;
 }
