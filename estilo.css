@@ -12,6 +12,7 @@ body {
     line-height: 1.6;
     padding: 20px;
     background: linear-gradient(283deg, #E1D2CA 0%, #E0C4B8 10%, #E0BBAB 100%);
+    text-align: center;
 }
 
 
@@ -101,11 +102,11 @@ footer {
 .cecimg
 {
 
-    width: 200px;
-    height: 400px;
+    width: 300px;
+    height: 500px;
     border-radius: 8px;
     margin-top: 10px;
-    align-items: center;
+   
 
 }
 .bebidas
@@ -113,3 +114,6 @@ footer {
     display: flex;
     align-items: center;
 }
+.cecimg{
+    text-align: center;
+       }
